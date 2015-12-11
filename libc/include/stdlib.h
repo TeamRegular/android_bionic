@@ -29,6 +29,7 @@
 #define _STDLIB_H_
 
 #include <sys/cdefs.h>
+#include <xlocale.h>
 
 #include <stddef.h>
 #include <string.h>
